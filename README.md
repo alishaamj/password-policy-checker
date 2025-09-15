@@ -5,19 +5,11 @@ This project is a simple Python tool that evaluates password strength and checks
 It provides feedback on password length, dictionary word usage, and character variety.
 
 ## ⚙️ Features
-- Length check (≥ 8 characters)
-- Dictionary word detection
-- Uppercase, lowercase, number, and special character requirements
-- Compliance report (Weak / Strong)
+- Length check (minimum 8 characters)  
+- Dictionary word detection  
+- Uppercase, lowercase, number, and special character requirements  
+- Compliance report (Weak / Strong)  
 
 ## 🛠️ Usage
 ```bash
 python password_checker.py
-
-
-## 🚀 Future Improvements
-- Check against a larger breached password list (e.g., HaveIBeenPwned API)
-- Add GUI/web interface for user-friendly testing
-- Generate enterprise password policy reports
-
-
