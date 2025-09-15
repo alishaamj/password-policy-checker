@@ -14,3 +14,10 @@ It provides feedback on password length, dictionary word usage, and character va
 ```bash
 python password_checker.py
 
+
+## 🚀 Future Improvements
+- Check against a larger breached password list (e.g., HaveIBeenPwned API)
+- Add GUI/web interface for user-friendly testing
+- Generate enterprise password policy reports
+
+
